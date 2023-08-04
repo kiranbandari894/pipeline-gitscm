@@ -1,1 +1,1 @@
-THis is some text
+this is testing git scm THis is some text
